@@ -1,0 +1,77 @@
+[
+    {
+      "id": 1,
+      "itemname": " Wallet",
+      "brand": "LuisVuiton",
+       "serial_number":"SD123L090",
+      "color": "Brown",
+      "dateposted": "12-08-2022",
+      "owner": "Jepheson Mark",
+      "owner_address": "Kampala"
+    },
+    {
+      "id": 2,
+      "itemname": "Phone",
+      "brand": "Tecno",
+       "serial":"NB123L090",
+      "color": "Brown",
+      "date": "12-08-2022",
+      "owner": "Jepheson Mark",
+      "owner_address": "Kampala"
+    },
+    {
+      "id": 3,
+      "name": "Hand bag",
+      "brand": "Timberland",
+       "serial_number":"ISB1063L090",
+      "color": "Brown",
+      "dateposted": "12-08-2022",
+      "owner": "Jepheson Mark",
+      "owner_address": "Kampala"
+    },
+    {
+      "id": 4,
+      "name": "Hand Watch",
+      "brand": "Apple",
+       "serial_number":"LB123L090",
+      "color": "Brown",
+      "dateposted": "12-08-2022",
+      "owner": "Jepheson Mark",
+      "owner_address": "Kampala"
+    },
+    {
+      "id": 5,
+      "name": "Cape",
+      "brand": "Adidas",
+       "serial_number":"SB1001J090",
+      "color": "Brown",
+      "dateposted": "12-08-2022",
+      "owner": "Jepheson Mark",
+      "owner_address": "Kampala"
+    },
+    
+    {
+        "id": 6,
+      "name": "Bag",
+      "brand": "LuisVuiton",
+      "serial_number":"SB123L090",
+      "color": "black",
+     " dateposted": "12-08-2022",
+      "owner": "Jepheson Mark",
+      "owner_address": "Kampala"
+
+    }
+    ,
+    {
+        "id": 7,
+      "name": "Bag",
+      "brand": "Nike",
+       "serial_number":"ST123L090",
+      "color": "red",
+     " dateposted": "12-08-2022",
+      "owner": "Jepheson Mark",
+      "owner_address": "Kampala"
+
+    }
+
+]

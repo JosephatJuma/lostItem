@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "itemname": "Bag",
+      "brand": "Apple",
+      "serial": "S20N2223",
+      "color": "Black",
+      "date": "2022-06-16",
+      "name": "Juma Josephat",
+      "address": "Kampala, Uganda"
+    },
+    {
+      "id": 2,
+      "itemname": "Pen",
+      "brand": "bink",
+      "serial": "S20N2223",
+      "color": "Blue",
+      "date": "2022-06-16",
+      "name": "Juma Josephat",
+      "address": "Kampala, Uganda"
+    }
+  ]
+}
